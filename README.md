@@ -54,10 +54,7 @@
 
  <h3 align="left">🔥   My Stats :</h3>
  <div>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=saracrz&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracrz&layout=compact&langs_count=6&theme=radical" />
 </div>
-
-
 
 ###
