@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Sara from Canary Islands - Spain<br><br>- 🔭 I’m working as front end developer.<br>- 📚 I'm currently learning NextJS.<br>- ⚡ In my free time I like running in the mountains.</p>
+<p align="left">I'm Sara from Canary Islands - Spain<br><br>- 🔭 I’m working as Front End developer.<br>- 📚 I'm currently learning **NextJS**.<br>- ⚡ In my free time I like running in the mountains.</p>
 
 ###
 
