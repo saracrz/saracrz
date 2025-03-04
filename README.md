@@ -53,6 +53,7 @@
 ###
 
  <h3 align="left">🔥   My Stats :</h3>
+ <div>
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saracrz&show_icons=true&theme=radical" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=saracrz&theme=radical" />
@@ -62,9 +63,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracrz&layout=compact&langs_count=6&theme=radical" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=saracrz&theme=radical&margin-w=5" />
 </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saracrz&theme=radical" />
-</p>
+
 
 ###
